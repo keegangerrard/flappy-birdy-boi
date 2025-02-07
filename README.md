@@ -1,6 +1,8 @@
 # flappy-birdy-boi
 Godot 4 Implementation of a Flappy Bird clone
 
+Sprites in the pack were created by Megacrash.
+
 A mostly finished implementation, but would require some polish to make it "done".
 
 Controls:
