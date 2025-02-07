@@ -7,6 +7,7 @@ Controls:
 Space - Jump
 Esc - Pause
 
+- [ ] - Fix parralax background so it moves
 - [ ] - Build a game over UI
   - [ ] - Finish death visual
 - [ ] - Add music and sound effects
